@@ -2120,6 +2120,88 @@
 		(uuid "ed5b9b35-cc7a-44d2-9f72-9f2a324aa294")
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 185.42 97.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1dc084db-119d-4b20-be94-ea6f29fdb082")
+		(property "Reference" "J3"
+			(at 187.96 97.7899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MOTOR DRIVER 3"
+			(at 187.96 100.3299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 185.42 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "36d0634d-91c4-453e-bfb7-11851fbc32fa")
+		)
+		(pin "2"
+			(uuid "6f8edb6e-7166-4f6f-9a4f-412361334811")
+		)
+		(instances
+			(project "Power Systems"
+				(path "/7d9b4746-b4fa-4905-9b55-f00e27d57e0a"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Fuse")
 		(at 166.37 97.79 90)
 		(unit 1)
@@ -2653,6 +2735,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 185.42 90.17 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9b794603-1728-4b58-bc95-c28094287f2a")
+		(property "Reference" "J2"
+			(at 187.96 90.1699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MOTOR DRIVER 2"
+			(at 187.96 92.7099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 185.42 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "94f91118-d192-4e32-af2c-88ee9025b40f")
+		)
+		(pin "2"
+			(uuid "331831bd-4f74-4d2b-ac43-7773d95fb9da")
+		)
+		(instances
+			(project "Power Systems"
+				(path "/7d9b4746-b4fa-4905-9b55-f00e27d57e0a"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
 		(at 134.62 87.63 0)
 		(unit 1)
@@ -2892,6 +3056,88 @@
 			(project "Power Systems"
 				(path "/7d9b4746-b4fa-4905-9b55-f00e27d57e0a"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 185.42 105.41 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c021bfd4-aa4c-4123-8465-b48a3c47244a")
+		(property "Reference" "J4"
+			(at 187.96 105.4099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MOTOR DRIVER 4"
+			(at 187.96 107.9499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 185.42 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "143eb593-74a0-4ee3-a846-8a7da1983512")
+		)
+		(pin "2"
+			(uuid "9787cd4f-231a-4f7b-b3f6-0f6f30b3ed2a")
+		)
+		(instances
+			(project "Power Systems"
+				(path "/7d9b4746-b4fa-4905-9b55-f00e27d57e0a"
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -3307,7 +3553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eedb1ae2-47ff-4abd-b975-4e31773c253d")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 187.96 82.5499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3318,7 +3564,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x02"
+		(property "Value" "MOTOR DRIVER 1"
 			(at 187.96 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3371,7 +3617,7 @@
 		(instances
 			(project "Power Systems"
 				(path "/7d9b4746-b4fa-4905-9b55-f00e27d57e0a"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)
