@@ -3099,6 +3099,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 34.29) (xy 184.15 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "614acc70-139a-48cd-88c3-3c42534caca7")
+	)
+	(wire
+		(pts
 			(xy 170.18 83.82) (xy 186.69 83.82)
 		)
 		(stroke
@@ -3176,6 +3186,16 @@
 			(type default)
 		)
 		(uuid "83154acc-54c9-41c0-b2e5-e0ec1a4a336e")
+	)
+	(wire
+		(pts
+			(xy 184.15 22.86) (xy 231.14 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8320edfc-5666-4d20-87d1-32bc9cb593c9")
 	)
 	(wire
 		(pts
@@ -3437,6 +3457,16 @@
 		)
 		(uuid "e9b1a640-8cef-44bf-9ba2-f9d0efe73168")
 	)
+	(wire
+		(pts
+			(xy 231.14 22.86) (xy 231.14 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9e16fe8-bb0d-4431-9714-ad98adcd94db")
+	)
 	(label "Motor"
 		(at 262.89 48.26 0)
 		(effects
@@ -3486,16 +3516,6 @@
 			(justify left bottom)
 		)
 		(uuid "6b54b3c7-d081-4562-9806-738f6db21e96")
-	)
-	(label "VMOTOR"
-		(at 184.15 34.29 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "74a36a7b-7f51-42b2-8c43-848db02081eb")
 	)
 	(label "VBATT"
 		(at 31.75 81.28 0)
@@ -3596,16 +3616,6 @@
 			(justify left bottom)
 		)
 		(uuid "f1c6123f-9ae9-4b49-91e3-a067f972e57c")
-	)
-	(label "VMOTOR"
-		(at 231.14 38.1 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fdb876ed-84a7-49b4-8a87-583f35f8ae19")
 	)
 	(symbol
 		(lib_id "power:GND")
